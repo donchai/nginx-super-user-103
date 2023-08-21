@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'NGINX Super User 2.0'
+copyright = '2023, Don Chai'
+author = 'Don Chai'
 
 release = '0.1'
 version = '0.1.0'
